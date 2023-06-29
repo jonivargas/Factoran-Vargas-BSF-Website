@@ -1,0 +1,40 @@
+﻿table,th, td {
+	border: 1px solid black
+}
+
+img {
+	width:150px;
+	border-radius:10px;
+	top:0px;
+	left:0px;
+}
+
+h1 {
+	text-align:center;
+	font-family:arial,verdana,sans serif;
+	color:light blue;
+}
+
+h2 {
+	border-style:solid;
+	border-width:thin;
+	border-color:black;
+	border-radius:10px;
+	margin-bottom:0px;
+	text-align:center;
+	font-family:arial;
+}
+
+p {
+	border-style:solid;
+	border-width:thin;
+	padding:10px;
+	border-radius:10px;
+	font-family:verdana;
+	margin-top:0px;
+	text-align:center;
+}
+
+body {
+	background-color:light blue;
+}
